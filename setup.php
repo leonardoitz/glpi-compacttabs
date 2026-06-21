@@ -59,7 +59,7 @@ function plugin_version_compacttabs()
         'version'        => PLUGIN_COMPACTTABS_VERSION,
         'author'         => 'Hugo Leonardo',
         'license'        => 'GPLv3+',
-        'homepage'       => '',
+        'homepage'       => 'https://github.com/leonardoitz/glpi-compacttabs/',
         'requirements'   => [
             'glpi' => [
                 'min' => PLUGIN_COMPACTTABS_MIN_GLPI,
