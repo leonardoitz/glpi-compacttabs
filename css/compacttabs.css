@@ -1,0 +1,34 @@
+.compacttabs-hidden {
+    display: none !important;
+}
+
+.compacttabs-toggle-wrapper {
+    list-style: none;
+    margin-top: .25rem;
+}
+
+.compacttabs-toggle {
+    width: 100%;
+    border: 0;
+    background: transparent;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    padding: .5rem .75rem;
+    text-align: left;
+    cursor: pointer;
+}
+
+.compacttabs-toggle:hover {
+    text-decoration: underline;
+}
+
+.compacttabs-toggle i {
+    flex: 0 0 auto;
+}
+
+.compacttabs-debug-outline {
+    outline: 2px dashed #cc0000;
+    outline-offset: 2px;
+}

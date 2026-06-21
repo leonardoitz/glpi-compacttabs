@@ -1,0 +1,40 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Backups locais
+*.bak
+*.backup
+*.old
+*.orig
+*.tmp
+*.save
+*.copy
+*.bkp
+*.bak-*
+
+# Logs
+*.log
+logs/
+var/
+
+# Dependências, caso o plugin use Composer futuramente
+vendor/
+composer.lock
+
+# Arquivos compactados gerados manualmente
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Ambiente local
+.env
+.env.*

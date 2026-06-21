@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <name>Compact Tabs</name>
+  <key>compacttabs</key>
+  <state>dev</state>
+  <logo></logo>
+  <description>Oculta abas vazias nas telas do GLPI, mantendo visíveis abas úteis, com contador ou configuradas como sempre visíveis.</description>
+  <homepage></homepage>
+  <download></download>
+  <issues></issues>
+  <authors>
+    <author>Hugo Leonardo</author>
+  </authors>
+  <versions>
+    <version>
+      <num>0.1.1-functional-snapshot</num>
+      <compatibility>10.0.20</compatibility>
+    </version>
+  </versions>
+</root>
